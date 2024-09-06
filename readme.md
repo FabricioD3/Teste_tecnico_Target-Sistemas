@@ -18,17 +18,13 @@ Descrição curta do que o projeto faz e seus principais objetivos.
    ```bash
    
     node teste1.js
-    ```bash
 
     node teste2.js
-    ```bash
-
+    
     node teste3.js
-    ```bash
 
     node teste4.js
-    ```bash
 
     node teste5.js
-    ```bash
+    
 
